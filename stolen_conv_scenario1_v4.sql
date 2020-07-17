@@ -1,5 +1,5 @@
 --Since we operate on a last touch attribution model, conversions get attributed only to the partner that last touched a cookie
---This code identifies whether a particular campaign was not getting the appropriate conversion attribution to due reach overlap with another campaign 
+--This code identifies whether a particular campaign was not getting the appropriate conversion attribution due overlap with another campaign 
 
 #standardsql
 
